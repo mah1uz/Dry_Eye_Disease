@@ -1,0 +1,136 @@
+{
+ "n_rows": 19989,
+ "reproduction": {
+  "Logistic Regression | All Features": {
+   "reproduced": 0.6113,
+   "notebook": 0.6113
+  },
+  "Logistic Regression | No Ocular Symptoms": {
+   "reproduced": 0.5117,
+   "notebook": 0.5117
+  },
+  "Logistic Regression | Ocular Symptoms Only": {
+   "reproduced": 0.6069,
+   "notebook": 0.6069
+  },
+  "XGBoost | All Features": {
+   "reproduced": 0.6006,
+   "notebook": 0.6016
+  },
+  "XGBoost | No Ocular Symptoms": {
+   "reproduced": 0.5026,
+   "notebook": 0.5045
+  },
+  "XGBoost | Ocular Symptoms Only": {
+   "reproduced": 0.6038,
+   "notebook": 0.6038
+  }
+ },
+ "permutation": {
+  "Logistic Regression": {
+   "n_perm": 1000,
+   "real_auc": 0.5037139250528376,
+   "null_mean": 0.49999259478924646,
+   "null_sd": 0.006767520136751441,
+   "null_q95": 0.5109704235205467,
+   "p_value": 0.30569430569430567,
+   "seconds": 97.54746961593628
+  },
+  "XGBoost": {
+   "n_perm": 200,
+   "real_auc": 0.5023921894464127,
+   "null_mean": 0.500735031109824,
+   "null_sd": 0.0064956793530958285,
+   "null_q95": 0.511010302697829,
+   "p_value": 0.39800995024875624,
+   "seconds": 221.8322627544403
+  }
+ },
+ "ceiling": {
+  "pattern_rate_auc_test": 0.5989353150554424,
+  "pattern_rate_auc_full_insample": 0.6003387944047011,
+  "n_symptoms_auc_test": 0.6078250566773405,
+  "pattern_table": [
+   {
+    "pattern": "000",
+    "n": 2535,
+    "ded_rate": 0.31794871794871793,
+    "n_symptoms": 0
+   },
+   {
+    "pattern": "001",
+    "n": 2466,
+    "ded_rate": 0.6845093268450932,
+    "n_symptoms": 1
+   },
+   {
+    "pattern": "100",
+    "n": 2578,
+    "ded_rate": 0.6966640806826998,
+    "n_symptoms": 1
+   },
+   {
+    "pattern": "010",
+    "n": 2480,
+    "ded_rate": 0.7004032258064516,
+    "n_symptoms": 1
+   },
+   {
+    "pattern": "011",
+    "n": 2477,
+    "ded_rate": 0.7012515139281389,
+    "n_symptoms": 2
+   },
+   {
+    "pattern": "110",
+    "n": 2465,
+    "ded_rate": 0.7034482758620689,
+    "n_symptoms": 2
+   },
+   {
+    "pattern": "101",
+    "n": 2543,
+    "ded_rate": 0.7137239480928038,
+    "n_symptoms": 2
+   },
+   {
+    "pattern": "111",
+    "n": 2445,
+    "ded_rate": 0.701840490797546,
+    "n_symptoms": 3
+   }
+  ]
+ },
+ "shap_stability_mean": {
+  "Discomfort Eye-strain": 0.22200000286102295,
+  "Redness in eye": 0.20350000262260437,
+  "Itchiness/Irritation in eye": 0.1941000074148178,
+  "Systolic BP": 0.05790000036358833,
+  "Average screen time": 0.053599998354911804,
+  "Height": 0.05040000006556511,
+  "Age": 0.04989999905228615,
+  "Daily steps": 0.046799998730421066,
+  "Sleep duration": 0.046300001442432404,
+  "Diastolic BP": 0.044599998742341995,
+  "Physical activity": 0.04439999908208847,
+  "Weight": 0.03790000081062317,
+  "Smart device before bed": 0.03579999879002571,
+  "Heart rate": 0.03310000151395798,
+  "Alcohol consumption": 0.02810000069439411,
+  "Stress level": 0.0203000009059906,
+  "Sleep quality": 0.018799999728798866,
+  "Gender_Male": 0.018799999728798866,
+  "Wake up during night": 0.010999999940395355,
+  "Sleep disorder": 0.00930000003427267,
+  "Feel sleepy during day": 0.009100000374019146,
+  "Smoking": 0.00839999970048666,
+  "Caffeine consumption": 0.008299999870359898,
+  "Ongoing medication": 0.007699999958276749,
+  "Medical issue": 0.007600000128149986,
+  "Blue-light filter": 0.00570000009611249
+ },
+ "calibration_oof_mean": {
+  "Logistic Regression": 0.5053747597372034,
+  "XGBoost": 0.6526306867599487
+ }
+}

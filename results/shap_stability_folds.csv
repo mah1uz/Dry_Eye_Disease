@@ -1,0 +1,391 @@
+Split,Feature,MeanAbsSHAP
+1,Gender_Male,0.019893704
+1,Age,0.059463806
+1,Height,0.053621694
+1,Weight,0.033773273
+1,Sleep duration,0.040941563
+1,Sleep quality,0.013402974
+1,Stress level,0.016208293
+1,Systolic BP,0.05912528
+1,Diastolic BP,0.054895107
+1,Heart rate,0.031513248
+1,Sleep disorder,0.015214093
+1,Wake up during night,0.013243703
+1,Feel sleepy during day,0.0082698325
+1,Medical issue,0.007077191
+1,Ongoing medication,0.00995767
+1,Daily steps,0.052488912
+1,Physical activity,0.043779902
+1,Caffeine consumption,0.0036676389
+1,Alcohol consumption,0.023710484
+1,Smoking,0.010146483
+1,Smart device before bed,0.048848126
+1,Average screen time,0.057714544
+1,Blue-light filter,0.0023370094
+1,Discomfort Eye-strain,0.23025708
+1,Redness in eye,0.19115946
+1,Itchiness/Irritation in eye,0.20303306
+2,Gender_Male,0.020652507
+2,Age,0.055826098
+2,Height,0.049578555
+2,Weight,0.039204963
+2,Sleep duration,0.038343627
+2,Sleep quality,0.02061211
+2,Stress level,0.022698408
+2,Systolic BP,0.06040309
+2,Diastolic BP,0.038649037
+2,Heart rate,0.031091405
+2,Sleep disorder,0.007043205
+2,Wake up during night,0.008092784
+2,Feel sleepy during day,0.004811034
+2,Medical issue,0.01113565
+2,Ongoing medication,0.0070186635
+2,Daily steps,0.036240544
+2,Physical activity,0.047549263
+2,Caffeine consumption,0.0054665906
+2,Alcohol consumption,0.029547699
+2,Smoking,0.008390605
+2,Smart device before bed,0.028859215
+2,Average screen time,0.06129629
+2,Blue-light filter,0.0044069597
+2,Discomfort Eye-strain,0.22592692
+2,Redness in eye,0.20495227
+2,Itchiness/Irritation in eye,0.20006041
+3,Gender_Male,0.017884973
+3,Age,0.04251237
+3,Height,0.046778947
+3,Weight,0.033226423
+3,Sleep duration,0.04965789
+3,Sleep quality,0.025855508
+3,Stress level,0.027374817
+3,Systolic BP,0.05150468
+3,Diastolic BP,0.03706889
+3,Heart rate,0.041117422
+3,Sleep disorder,0.005317667
+3,Wake up during night,0.0093057975
+3,Feel sleepy during day,0.0060365163
+3,Medical issue,0.007419907
+3,Ongoing medication,0.0046597165
+3,Daily steps,0.05504606
+3,Physical activity,0.05088188
+3,Caffeine consumption,0.012447078
+3,Alcohol consumption,0.028688302
+3,Smoking,0.0040347483
+3,Smart device before bed,0.040619843
+3,Average screen time,0.042832978
+3,Blue-light filter,0.0130410865
+3,Discomfort Eye-strain,0.22337931
+3,Redness in eye,0.20533523
+3,Itchiness/Irritation in eye,0.20905307
+4,Gender_Male,0.021489268
+4,Age,0.051557302
+4,Height,0.047103964
+4,Weight,0.03728841
+4,Sleep duration,0.045595385
+4,Sleep quality,0.020407574
+4,Stress level,0.01173013
+4,Systolic BP,0.06254366
+4,Diastolic BP,0.050711814
+4,Heart rate,0.03395091
+4,Sleep disorder,0.0058816955
+4,Wake up during night,0.009776218
+4,Feel sleepy during day,0.015863795
+4,Medical issue,0.0099632
+4,Ongoing medication,0.0045794365
+4,Daily steps,0.040137142
+4,Physical activity,0.049913604
+4,Caffeine consumption,0.008001906
+4,Alcohol consumption,0.018070329
+4,Smoking,0.011454741
+4,Smart device before bed,0.029139884
+4,Average screen time,0.05082935
+4,Blue-light filter,0.009445129
+4,Discomfort Eye-strain,0.22193885
+4,Redness in eye,0.20814587
+4,Itchiness/Irritation in eye,0.18252528
+5,Gender_Male,0.012565389
+5,Age,0.04393763
+5,Height,0.047077466
+5,Weight,0.042288445
+5,Sleep duration,0.048136044
+5,Sleep quality,0.018355004
+5,Stress level,0.02660706
+5,Systolic BP,0.059368104
+5,Diastolic BP,0.043350644
+5,Heart rate,0.026812624
+5,Sleep disorder,0.0143427
+5,Wake up during night,0.008668439
+5,Feel sleepy during day,0.008405556
+5,Medical issue,0.0061483122
+5,Ongoing medication,0.015440836
+5,Daily steps,0.051764794
+5,Physical activity,0.03991516
+5,Caffeine consumption,0.0069315676
+5,Alcohol consumption,0.039768163
+5,Smoking,0.006357516
+5,Smart device before bed,0.02715993
+5,Average screen time,0.05526027
+5,Blue-light filter,0.005071298
+5,Discomfort Eye-strain,0.20791495
+5,Redness in eye,0.2133344
+5,Itchiness/Irritation in eye,0.17489366
+6,Gender_Male,0.011183873
+6,Age,0.04705262
+6,Height,0.05156511
+6,Weight,0.038374566
+6,Sleep duration,0.04516345
+6,Sleep quality,0.008792765
+6,Stress level,0.023821477
+6,Systolic BP,0.062071737
+6,Diastolic BP,0.04727886
+6,Heart rate,0.030087383
+6,Sleep disorder,0.004550673
+6,Wake up during night,0.0075966595
+6,Feel sleepy during day,0.0072910055
+6,Medical issue,0.004033165
+6,Ongoing medication,0.009879505
+6,Daily steps,0.049937
+6,Physical activity,0.043588854
+6,Caffeine consumption,0.0049537537
+6,Alcohol consumption,0.017328832
+6,Smoking,0.0068093943
+6,Smart device before bed,0.031564113
+6,Average screen time,0.050397433
+6,Blue-light filter,0.004431441
+6,Discomfort Eye-strain,0.22179613
+6,Redness in eye,0.1895893
+6,Itchiness/Irritation in eye,0.20583904
+7,Gender_Male,0.0178244
+7,Age,0.058866434
+7,Height,0.055466484
+7,Weight,0.034497023
+7,Sleep duration,0.050455615
+7,Sleep quality,0.016605897
+7,Stress level,0.01891217
+7,Systolic BP,0.06432398
+7,Diastolic BP,0.04367381
+7,Heart rate,0.029430289
+7,Sleep disorder,0.0072286665
+7,Wake up during night,0.010347209
+7,Feel sleepy during day,0.007351107
+7,Medical issue,0.0046609817
+7,Ongoing medication,0.008897095
+7,Daily steps,0.04753288
+7,Physical activity,0.046956148
+7,Caffeine consumption,0.011959992
+7,Alcohol consumption,0.03674162
+7,Smoking,0.00802009
+7,Smart device before bed,0.03682077
+7,Average screen time,0.049086574
+7,Blue-light filter,0.0045456993
+7,Discomfort Eye-strain,0.21702409
+7,Redness in eye,0.20689948
+7,Itchiness/Irritation in eye,0.17803763
+8,Gender_Male,0.015302506
+8,Age,0.04970467
+8,Height,0.04783953
+8,Weight,0.031163212
+8,Sleep duration,0.043967374
+8,Sleep quality,0.027996363
+8,Stress level,0.020123377
+8,Systolic BP,0.048258726
+8,Diastolic BP,0.057481676
+8,Heart rate,0.030890694
+8,Sleep disorder,0.012907435
+8,Wake up during night,0.019917937
+8,Feel sleepy during day,0.005360536
+8,Medical issue,0.0086137
+8,Ongoing medication,0.0034582203
+8,Daily steps,0.05217286
+8,Physical activity,0.04101911
+8,Caffeine consumption,0.006403003
+8,Alcohol consumption,0.039172567
+8,Smoking,0.008722185
+8,Smart device before bed,0.040515278
+8,Average screen time,0.06342103
+8,Blue-light filter,0.006184842
+8,Discomfort Eye-strain,0.22613165
+8,Redness in eye,0.21030684
+8,Itchiness/Irritation in eye,0.19642499
+9,Gender_Male,0.02369361
+9,Age,0.048732888
+9,Height,0.063966565
+9,Weight,0.040492225
+9,Sleep duration,0.062716395
+9,Sleep quality,0.017286843
+9,Stress level,0.01549794
+9,Systolic BP,0.054320734
+9,Diastolic BP,0.03142005
+9,Heart rate,0.034722246
+9,Sleep disorder,0.0066161905
+9,Wake up during night,0.020966247
+9,Feel sleepy during day,0.0081361905
+9,Medical issue,0.011813408
+9,Ongoing medication,0.006036805
+9,Daily steps,0.04391496
+9,Physical activity,0.041598942
+9,Caffeine consumption,0.003258668
+9,Alcohol consumption,0.016903065
+9,Smoking,0.0068819416
+9,Smart device before bed,0.034434047
+9,Average screen time,0.040895544
+9,Blue-light filter,0.0052560046
+9,Discomfort Eye-strain,0.2278656
+9,Redness in eye,0.20296812
+9,Itchiness/Irritation in eye,0.19161479
+10,Gender_Male,0.022726921
+10,Age,0.039659467
+10,Height,0.04803866
+10,Weight,0.046099905
+10,Sleep duration,0.04644155
+10,Sleep quality,0.021013128
+10,Stress level,0.014533495
+10,Systolic BP,0.065478586
+10,Diastolic BP,0.042022232
+10,Heart rate,0.033761207
+10,Sleep disorder,0.0064318897
+10,Wake up during night,0.0046462175
+10,Feel sleepy during day,0.013782308
+10,Medical issue,0.0037219645
+10,Ongoing medication,0.0041462164
+10,Daily steps,0.047692657
+10,Physical activity,0.042452566
+10,Caffeine consumption,0.019662969
+10,Alcohol consumption,0.029428039
+10,Smoking,0.008714797
+10,Smart device before bed,0.037698522
+10,Average screen time,0.0636064
+10,Blue-light filter,0.0042472826
+10,Discomfort Eye-strain,0.21959762
+10,Redness in eye,0.2058557
+10,Itchiness/Irritation in eye,0.20404413
+11,Gender_Male,0.026076328
+11,Age,0.041591864
+11,Height,0.043404955
+11,Weight,0.027745832
+11,Sleep duration,0.04519223
+11,Sleep quality,0.026443072
+11,Stress level,0.018244937
+11,Systolic BP,0.0594948
+11,Diastolic BP,0.044192024
+11,Heart rate,0.03211386
+11,Sleep disorder,0.010377784
+11,Wake up during night,0.005966694
+11,Feel sleepy during day,0.007927291
+11,Medical issue,0.0024646125
+11,Ongoing medication,0.01181283
+11,Daily steps,0.036645036
+11,Physical activity,0.046354104
+11,Caffeine consumption,0.009166476
+11,Alcohol consumption,0.02224933
+11,Smoking,0.017740253
+11,Smart device before bed,0.024362948
+11,Average screen time,0.060693614
+11,Blue-light filter,0.0028920453
+11,Discomfort Eye-strain,0.21883266
+11,Redness in eye,0.1899933
+11,Itchiness/Irritation in eye,0.16484065
+12,Gender_Male,0.019759603
+12,Age,0.05307242
+12,Height,0.053222746
+12,Weight,0.03619658
+12,Sleep duration,0.040834233
+12,Sleep quality,0.010991854
+12,Stress level,0.020124417
+12,Systolic BP,0.05471144
+12,Diastolic BP,0.043379344
+12,Heart rate,0.036975965
+12,Sleep disorder,0.006028006
+12,Wake up during night,0.009493319
+12,Feel sleepy during day,0.007786228
+12,Medical issue,0.0045556976
+12,Ongoing medication,0.007435242
+12,Daily steps,0.050708603
+12,Physical activity,0.04807627
+12,Caffeine consumption,0.0044226735
+12,Alcohol consumption,0.035792023
+12,Smoking,0.009780857
+12,Smart device before bed,0.039346594
+12,Average screen time,0.0587262
+12,Blue-light filter,0.0060772845
+12,Discomfort Eye-strain,0.23367171
+12,Redness in eye,0.2095662
+12,Itchiness/Irritation in eye,0.20429303
+13,Gender_Male,0.020385027
+13,Age,0.058666777
+13,Height,0.053988226
+13,Weight,0.043315962
+13,Sleep duration,0.04307534
+13,Sleep quality,0.014151941
+13,Stress level,0.020565055
+13,Systolic BP,0.065792404
+13,Diastolic BP,0.04515167
+13,Heart rate,0.035525788
+13,Sleep disorder,0.013450423
+13,Wake up during night,0.009498035
+13,Feel sleepy during day,0.01332015
+13,Medical issue,0.021749409
+13,Ongoing medication,0.005494168
+13,Daily steps,0.043608498
+13,Physical activity,0.039385464
+13,Caffeine consumption,0.0067791548
+13,Alcohol consumption,0.016425347
+13,Smoking,0.007368858
+13,Smart device before bed,0.045845512
+13,Average screen time,0.05244793
+13,Blue-light filter,0.0043570222
+13,Discomfort Eye-strain,0.23277885
+13,Redness in eye,0.19308938
+13,Itchiness/Irritation in eye,0.19963375
+14,Gender_Male,0.013023256
+14,Age,0.057930056
+14,Height,0.04281543
+14,Weight,0.045782793
+14,Sleep duration,0.052316867
+14,Sleep quality,0.015580737
+14,Stress level,0.02135975
+14,Systolic BP,0.043645613
+14,Diastolic BP,0.052351408
+14,Heart rate,0.03580646
+14,Sleep disorder,0.018420927
+14,Wake up during night,0.007173638
+14,Feel sleepy during day,0.0073113455
+14,Medical issue,0.004486612
+14,Ongoing medication,0.009140135
+14,Daily steps,0.049710862
+14,Physical activity,0.03982818
+14,Caffeine consumption,0.008966574
+14,Alcohol consumption,0.03095592
+14,Smoking,0.0063686282
+14,Smart device before bed,0.03485388
+14,Average screen time,0.052956898
+14,Blue-light filter,0.0078492
+14,Discomfort Eye-strain,0.21674225
+14,Redness in eye,0.22030148
+14,Itchiness/Irritation in eye,0.20380975
+15,Gender_Male,0.019649597
+15,Age,0.039193343
+15,Height,0.050801143
+15,Weight,0.039243568
+15,Sleep duration,0.042329773
+15,Sleep quality,0.02519366
+15,Stress level,0.026467066
+15,Systolic BP,0.05743307
+15,Diastolic BP,0.037404582
+15,Heart rate,0.03222264
+15,Sleep disorder,0.0056740083
+15,Wake up during night,0.019927148
+15,Feel sleepy during day,0.0153277945
+15,Medical issue,0.006856992
+15,Ongoing medication,0.0076613748
+15,Daily steps,0.044958524
+15,Physical activity,0.044342227
+15,Caffeine consumption,0.011716565
+15,Alcohol consumption,0.036688846
+15,Smoking,0.0057951855
+15,Smart device before bed,0.036774162
+15,Average screen time,0.044115875
+15,Blue-light filter,0.0060931076
+15,Discomfort Eye-strain,0.20606637
+15,Redness in eye,0.20130575
+15,Itchiness/Irritation in eye,0.19367096
