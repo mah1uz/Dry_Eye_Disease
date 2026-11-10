@@ -24,13 +24,6 @@ jupyter nbconvert --to notebook --execute notebooks/01_main_pipeline.ipynb --out
 jupyter nbconvert --to notebook --execute notebooks/02_extra_checks.ipynb --output-dir outputs
 ```
 
-Settings are environment variables:
-
-* `DATA_DIR` (notebook 01, default `../data`) and `OUT_DIR` (default `../outputs`).
-* `DRY_EYE_CSV` (notebook 02, default `../data/Dry_Eye_Dataset.csv`).
-* `QUICK_TEST=1` (notebook 02) runs a tiny version to check that the code works. The numbers of a quick test are **not** the paper numbers.
-
-Run time on a laptop CPU: notebook 01 about 10-20 minutes, notebook 02 about 15-30 minutes (the permutation test is the slow part).
 
 ## Reproducibility notes
 
@@ -46,5 +39,4 @@ Kaggle Dry Eye Disease data set: https://www.kaggle.com/datasets/dakshnagra/dry-
 The origin of the data is not documented. See the Limitations section of the paper.
 
 ## Citation
-
-Add the paper citation and a licence here.
+.....
